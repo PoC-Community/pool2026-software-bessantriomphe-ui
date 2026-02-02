@@ -1,0 +1,1 @@
+/home/riomph_/SOFTPOC/SOFTWARE/day01/SOFT/hello_rust/target/debug/hello_rust: /home/riomph_/SOFTPOC/SOFTWARE/day01/SOFT/hello_rust/src/get_even_numbers.rs /home/riomph_/SOFTPOC/SOFTWARE/day01/SOFT/hello_rust/src/main.rs
