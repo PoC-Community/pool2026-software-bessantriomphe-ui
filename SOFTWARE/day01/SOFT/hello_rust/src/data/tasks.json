@@ -1,22 +1,32 @@
 [
   {
     "id": 1,
-    "description": "Buy groceries",
-    "completed": false
+    "description": "Become strong in rust",
+    "completed": false,
+    "created_at": "2026-02-03T20:36:54.734871821Z",
+    "priority": "High",
+    "tags": [
+      "Important"
+    ]
   },
   {
     "id": 2,
-    "description": "Finish homework",
-    "completed": true
+    "description": "Become Pro",
+    "completed": false,
+    "created_at": "2026-02-03T20:44:17.020985120Z",
+    "priority": "High",
+    "tags": [
+      "Hard Work"
+    ]
   },
   {
     "id": 3,
-    "description": "Call mom",
-    "completed": false
-  },
-  {
-    "id": 4,
-    "description": "ATT",
-    "completed": false
+    "description": "Go home",
+    "completed": false,
+    "created_at": "2026-02-03T20:48:18.349222682Z",
+    "priority": "Medium",
+    "tags": [
+      "Immediately"
+    ]
   }
 ]
