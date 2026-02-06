@@ -1,0 +1,3 @@
+Rust est génial.
+J'apprends le langage RUST.
+Le café est prêt.   
